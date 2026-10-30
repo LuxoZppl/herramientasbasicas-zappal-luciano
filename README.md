@@ -3,6 +3,12 @@
 ## Introducción
 Este proyecto analiza las empresas incluidas en el ranking INC 5000 de 2019 con el objetivo de identificar patrones asociados al crecimiento de sus ingresos.
 
+## Pregunta de análisis
+¿Qué características de las empresas incluidas en el ranking INC 5000 de 2019 se relacionan con su crecimiento de ingresos, considerando la industria, los ingresos, la cantidad de empleados, la antigüedad y la ubicación geográfica?
+
+## Justificación del dataset
+Se seleccionó el ranking INC 5000 de 2019 porque reúne información de empresas de distintos sectores y ubicaciones geográficas, e incluye variables relevantes para analizar su crecimiento, como ingresos, porcentaje de crecimiento, cantidad de empleados y antigüedad. Estas características permiten realizar comparaciones y explorar posibles relaciones entre las variables dentro del conjunto de empresas analizado.
+
 ## Objetivos
 - Analizar el crecimiento de ingresos de las empresas.
 - Comparar resultados según industria, ubicación geográfica y antigüedad.
