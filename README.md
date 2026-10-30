@@ -32,9 +32,9 @@ El análisis muestra una distribución asimétrica del crecimiento de ingresos: 
 También se observan diferencias en el crecimiento según la antigüedad y la industria. Estos resultados corresponden a las empresas incluidas en el ranking analizado y no deben generalizarse automáticamente a todas las empresas.
 
 ## Archivos del proyecto
-- [Notebook de Python](Análisis_del_crecimiento_empresarial_—_INC_5000_2019.ipynb): código, análisis exploratorio y visualizaciones.
-- [Dashboard de Power BI](INC5000_Analisis.pbix): dashboard interactivo.
-- [Dataset limpio](INC5000_limpio%20(1).csv): conjunto de datos utilizado en el análisis.
+- [Notebook de Python](notebooks/Análisis_del_crecimiento_empresarial_—_INC_5000_2019.ipynb): código, análisis exploratorio y visualizaciones.
+- [Dashboard de Power BI](dashboard/INC5000_Analisis.pbix): dashboard interactivo.
+- [Dataset limpio](data/raw/INC5000_limpio%20(1).csv): conjunto de datos utilizado en el análisis.
 
 ## Autor
 Proyecto final realizado como parte de la formación en análisis de datos de UTN.
